@@ -49,6 +49,7 @@ Añadir al archivo Application Properties
 - Database url
 - Username
 - Password
+
 `spring.datasource.url=jdbc:oracle:xxx:@XX.XX.XXX.XX:1521:xxx
 spring.datasource.username=user
 spring.datasource.password=pass`

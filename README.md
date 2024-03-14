@@ -50,9 +50,9 @@ Añadir al archivo Application Properties
 - Username
 - Password
 
-`spring.datasource.url=jdbc:oracle:xxx:@XX.XX.XXX.XX:1521:xxx
-spring.datasource.username=user
-spring.datasource.password=pass`
+`spring.datasource.url=jdbc:oracle:xxx:@XX.XX.XXX.XX:1521:xxx`
+`spring.datasource.username=user`
+`spring.datasource.password=pass`
 
 ## Repositorio
 Crear una interfaz por cada tabla de la base de datos en el paquete **Repositories**:
